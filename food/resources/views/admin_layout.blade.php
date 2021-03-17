@@ -191,7 +191,7 @@
             <li><a href="#">
                     <em class="fa fa-home"></em>
                 </a></li>
-            <li class="active">Dashboard</li>
+            <li class="active">Dashboard test</li>
         </ol>
     </div><!--/.row-->
 
